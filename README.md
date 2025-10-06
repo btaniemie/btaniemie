@@ -1,4 +1,4 @@
-## Hi, I'm Minh! 🎧🪩🩶🫧
+## Hi, I'm Minh! 
 
 I’m a CS junior at Dickinson College with a passion for building user-friendly software and solving problems through tech
 
