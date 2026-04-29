@@ -5,4 +5,3 @@ I'm a CS junior at Dickinson College with a passion for building user-friendly s
 * 🧶 Crocheting and binge-watching shows in my free time
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=btaniemie&layout=compact)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=btaniemie)](https://github.com/anuraghazra/github-readme-stats)
