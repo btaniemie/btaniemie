@@ -4,4 +4,4 @@ I'm a CS junior at Dickinson College with a passion for building user-friendly s
 * 💡 Interested in developer tooling, infra, and open source — currently learning Go and Terraform
 * 🧶 Crocheting and binge-watching shows in my free time
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=btaniemie&layout=compact)
