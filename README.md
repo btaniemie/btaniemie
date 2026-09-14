@@ -1,5 +1,9 @@
-## Hi, I'm Minh (Tammie)!
-I'm a CS junior at Dickinson College with a passion for building user-friendly software and solving problems through tech
-* 🚀 Incoming: SWE Intern at Rippling (Summer 2026)
-* 👩🏻‍💻 Previously: SWE Intern at the NSF National Center for Atmospheric Research, where I worked on improving the usability of the Research Data Archive platform
-* 🧶 Crocheting and binge-watching shows in my free time
+## Hi, I'm Minh (Tammie) 👋
+
+I'm a CS & Math student at Dickinson College who enjoys building developer tools, backend systems, and AI applications.
+
+- 🚀 Previously: Software Engineer Intern @ Rippling (Developer Experience)
+- 🔬 Previously: Software Engineer Intern @ NSF National Center for Atmospheric Research (NCAR)
+- 🤖 Interested in backend engineering, distributed systems, and AI
+- 💻 Currently building projects with Go, TypeScript, Python, React, Kubernetes, and cloud technologies
+- 🧶 Outside of coding, you'll probably find me crocheting or binge-watching TV shows :)
