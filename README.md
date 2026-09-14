@@ -5,7 +5,6 @@ I'm a CS & Math student at Dickinson College who enjoys building developer tools
 - 🚀 Previously: SWE Intern @ Rippling (Developer Experience)
 - 🔬 Previously: SIParCS Intern @ NSF National Center for Atmospheric Research
 - 🤖 Interested in backend engineering, distributed systems, and AI
-- 🧶 Outside of coding, you'll probably find me crocheting or binge-watching TV shows
 
 ## 💻 Tech Stack
 
